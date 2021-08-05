@@ -1,5 +1,5 @@
 # STT and TTS
-here I made three files:
+here I made three files in watson-streaming-stt-tts folder:
 
 1- transcribe.py which will convert speech to text by running the code or in terminal write *python transcribe.py -t 10* where 10 is the seconds.
 
