@@ -1,1 +1,1 @@
-# STTandTTS
+# STT and TTS
